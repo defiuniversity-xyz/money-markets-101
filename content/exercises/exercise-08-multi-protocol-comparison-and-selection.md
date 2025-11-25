@@ -24,6 +24,10 @@
 - Canonical assets: _________________________________
 - Gas/Energy model: _________________________________
 
+
+![Alternative Chain Protocol Comparison](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_08/ex08_01_alternative_chain_protocol_comparison.png)
+
+
 ## ⚠️ Phase 2: Risk Assessment (20 minutes)
 
 **Exercise 3**: Evaluate risks
@@ -39,6 +43,10 @@
 **JustLend**:
 - USDD risk: _____ (High/Medium/Low)
 - Why avoid significant USDD exposure? _________________________________
+
+
+![Bridge Risk Assessment](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_08/ex08_02_bridge_risk_assessment.png)
+
 
 ## 💡 Phase 3: Selection Framework (15 minutes)
 

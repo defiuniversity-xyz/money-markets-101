@@ -53,6 +53,10 @@ Liquidations occur when:
 
 **Real Impact**: A 10% liquidation penalty on $10,000 collateral = $1,000 loss, even if you intended to repay the loan.
 
+
+![Liquidation Mechanics Flow](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_03/mm03_01_liquidation_mechanics_flow.png)
+
+
 ## 📊 Health Factor Monitoring
 
 ### The Critical Thresholds
@@ -107,6 +111,10 @@ Liquidations occur when:
 - Repay entire loan if HF critical
 - Exit position completely
 - Locks in losses but prevents liquidation
+
+
+![Health Factor Zones Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_03/mm03_02_health_factor_zones_diagram.png)
+
 
 ## 🎯 Collateral Volatility Considerations
 
@@ -285,6 +293,10 @@ For modular protocols (Morpho, Euler), research curators before depositing.
 - Transparency in reporting
 - Response to past incidents
 
+
+![Things to Avoid vs Things to Look For](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_03/mm03_04_things_to_avoid_vs_things_to_look_for.png)
+
+
 ## 🛡️ Safety Buffers and Position Sizing
 
 ### Calculating Safety Buffers
@@ -327,6 +339,10 @@ $$Buffer = \frac{\$10,000 - (\$6,000 / 0.85)}{\$10,000} = \frac{\$10,000 - \$7,0
 - Borrow at maximum LTV
 - Let HF drop below 1.2
 - Use highly volatile collateral without extreme caution
+
+
+![Risk Assessment Matrix](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_03/mm03_03_risk_assessment_matrix.png)
+
 
 ## 🔄 Emergency Exit Procedures
 

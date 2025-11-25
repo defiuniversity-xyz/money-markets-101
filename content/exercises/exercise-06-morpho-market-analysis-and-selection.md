@@ -26,6 +26,10 @@
 - [ ] Idle liquidity > 10%
 - [ ] Risk reports read
 
+
+![Vault Comparison Matrix](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_06/ex06_01_vault_comparison_matrix.png)
+
+
 ## 📊 Phase 2: Risk Assessment (15 minutes)
 
 **Exercise 3**: Compare vaults
@@ -37,6 +41,10 @@
 - Asset allocation: _____ (conservative/aggressive)
 - Historical performance: _____
 - Risk level: _____ (Low/Medium/High)
+
+
+![Due Diligence Checklist](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_06/ex06_02_due_diligence_checklist.png)
+
 
 ## 💡 Phase 3: Selection Decision (10 minutes)
 

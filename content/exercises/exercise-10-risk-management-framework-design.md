@@ -26,6 +26,10 @@
 
 **Rationale**: _________________________________
 
+
+![Portfolio Allocation Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_10/ex10_01_portfolio_allocation_template.png)
+
+
 ## 🛡️ Phase 2: Risk Assessment Matrix (25 minutes)
 
 **Exercise 2**: Create risk scoring
@@ -41,6 +45,10 @@
 - < 2.0: Acceptable
 - 2.0-3.0: Monitor closely
 - > 3.0: Reduce or exit
+
+
+![Risk Assessment Matrix Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_10/ex10_02_risk_assessment_matrix_template.png)
+
 
 ## 📈 Phase 3: Hedging Strategy (20 minutes)
 
@@ -68,6 +76,10 @@
 2. Funds needed: $_____
 3. Time to execute: _____ minutes
 4. Backup plan: _________________________________
+
+
+![Emergency Exit Plan Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_10/ex10_03_emergency_exit_plan_template.png)
+
 
 ## ✅ Framework Completion
 

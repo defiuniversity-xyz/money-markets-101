@@ -60,6 +60,10 @@ Answer these questions to assess your comprehension:
 - Your choice: _________________________________
 - Reasoning: _________________________________
 
+
+![Architecture Comparison Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_01/ex01_01_architecture_comparison_template.png)
+
+
 ## 💡 Phase 3: Real-World Application (10 minutes)
 
 ### Protocol Selection Exercise

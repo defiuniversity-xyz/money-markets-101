@@ -38,6 +38,10 @@
 
 **Action items**: _________________________________
 
+
+![Risk Assessment Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_03/ex03_01_risk_assessment_template.png)
+
+
 ## 🛡️ Phase 2: Safety Buffer Calculation (15 minutes)
 
 ### Buffer Analysis
@@ -82,6 +86,10 @@
 | Health Factor | _____ | > 2.0 | _____ |
 | Collateral Value | $_____ | $_____ | _____ |
 | Debt Amount | $_____ | < $_____ | _____ |
+
+
+![Monitoring Setup Checklist](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_03/ex03_02_monitoring_setup_checklist.png)
+
 
 ## ✅ Self-Assessment
 

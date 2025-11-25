@@ -38,6 +38,10 @@ Building a professional money market system requires integrating all concepts fr
 - Decision frameworks
 - Continuous improvement
 
+
+![System Architecture Overview](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_12/mm12_01_system_architecture_overview.png)
+
+
 ## 📊 Multi-Protocol Portfolio Management
 
 ### Portfolio Structure
@@ -243,6 +247,10 @@ Risk Metrics:
 4. Document lessons learned
 5. Plan next month's strategy
 
+
+![Operational Workflow Timeline](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_12/mm12_02_operational_workflow_timeline.png)
+
+
 ## 📋 Documentation System
 
 ### Essential Documents
@@ -352,6 +360,10 @@ Risk Metrics:
 - Build professional system
 
 **Goal**: Professional-level operations with optimized risk-adjusted returns
+
+
+![Graduation Path Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_12/mm12_03_graduation_path_diagram.png)
+
 
 ## 🎓 Final Best Practices
 

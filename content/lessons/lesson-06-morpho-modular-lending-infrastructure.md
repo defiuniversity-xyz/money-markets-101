@@ -75,6 +75,14 @@ Morpho represents the evolution from parasitic optimization to foundational infr
 - Narrower spread (less idle capital)
 - Higher capital efficiency
 
+
+![Morpho Blue Market Structure](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_06/mm06_01_morpho_blue_market_structure.png)
+
+
+
+![Adaptive Curve IRM Visualization](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_06/mm06_03_adaptive_curve_irm_visualization.png)
+
+
 ## 📦 MetaMorpho Vaults: The Curation Layer
 
 ### The User Experience Problem
@@ -116,6 +124,10 @@ Morpho represents the evolution from parasitic optimization to foundational infr
 3. **Curator Track Record**: Historical performance, transparency
 4. **Idle Liquidity**: >10% for instant withdrawals
 5. **Risk Reports**: Public analysis of allocations
+
+
+![MetaMorpho Vault Flow Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_06/mm06_02_metamorpho_vault_flow_diagram.png)
+
 
 ## 💧 Risk Isolation & Bad Debt
 
@@ -175,6 +187,10 @@ Morpho represents the evolution from parasitic optimization to foundational infr
 | Oracle Choice | Primarily Chainlink | Oracle agnostic |
 | User Experience | Direct protocol | Vault-based (curated) |
 | Gas Efficiency | Higher | ~70% lower |
+
+
+![Morpho vs Aave Comparison](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_06/mm06_04_morpho_vs_aave_comparison.png)
+
 
 ## 🎯 When to Use Morpho
 

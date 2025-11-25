@@ -22,6 +22,10 @@
 - As beginner, use: _____ vaults
 - Why? _________________________________
 
+
+![Vault Type Comparison Worksheet](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_07/ex07_01_vault_type_comparison_worksheet.png)
+
+
 ## 🔐 Phase 2: Sub-Account Strategy (15 minutes)
 
 **Exercise 3**: Design sub-account structure
@@ -37,6 +41,10 @@
 - Risk level: _____
 
 **Isolation benefit**: _________________________________
+
+
+![Sub-Account Strategy Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_07/ex07_02_sub_account_strategy_template.png)
+
 
 ## 📊 Phase 3: Risk Analysis (15 minutes)
 

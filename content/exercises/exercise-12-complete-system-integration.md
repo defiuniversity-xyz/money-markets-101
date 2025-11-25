@@ -26,6 +26,10 @@
 - Alerts: _____
 - Automation: _____
 
+
+![System Architecture Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_12/ex12_01_system_architecture_template.png)
+
+
 ## 📊 Phase 2: Portfolio Structure (25 minutes)
 
 **Exercise 3**: Final allocation
@@ -42,6 +46,10 @@
 - Conservative: $_____ (_____%)
 - Moderate: $_____ (_____%)
 - Aggressive: $_____ (_____%)
+
+
+![Portfolio Structure Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_12/ex12_02_portfolio_structure_template.png)
+
 
 ## 🔧 Phase 3: Automation Setup (25 minutes)
 
@@ -61,6 +69,10 @@
 **Daily**: _________________________________
 **Weekly**: _________________________________
 **Monthly**: _________________________________
+
+
+![Automation Setup Checklist](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_12/ex12_03_automation_setup_checklist.png)
+
 
 ## 📋 Phase 4: Documentation (30 minutes)
 
@@ -88,6 +100,10 @@
 1. _____
 2. _____
 3. _____
+
+
+![Professional System Checklist](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_12/ex12_04_professional_system_checklist.png)
+
 
 ## ✅ System Checklist
 

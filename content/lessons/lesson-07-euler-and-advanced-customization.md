@@ -68,6 +68,10 @@ Euler Finance's story is defined by resilience. After a $197M exploit in v1, Eul
 
 **The Power**: Combines Aave's cross-margin efficiency with Morpho's isolation benefits.
 
+
+![Euler Vault Kit Architecture](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_07/mm07_01_euler_vault_kit_architecture.png)
+
+
 ## 🎛️ Vault Classes: Risk Segmentation
 
 ### Core Vaults
@@ -100,6 +104,10 @@ Euler Finance's story is defined by resilience. After a $197M exploit in v1, Eul
 - Assets with no yield (need liquidity, not interest)
 
 **Result**: Safe harbor for collateral types v1 couldn't support
+
+
+![Euler Vault Classes Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_07/mm07_02_euler_vault_classes_diagram.png)
+
 
 ## 🔒 Managed vs Trustless Vaults
 
@@ -143,6 +151,10 @@ Euler Finance's story is defined by resilience. After a $197M exploit in v1, Eul
 
 **Benefit**: Convenience
 **Risk**: Encourages leverage—use with caution
+
+
+![Sub-Account Risk Isolation](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_07/mm07_03_sub_account_risk_isolation.png)
+
 
 ## 🛡️ Oracle Freedom
 

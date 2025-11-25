@@ -108,6 +108,14 @@ Each has different risk profiles and yields.
 - Requires understanding curators, market parameters, and risk isolation
 - Better for sophisticated strategies and risk tolerance
 
+
+![Monolithic vs Modular Architecture Comparison](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_01/mm01_01_monolithic_vs_modular_architecture_comparison.png)
+
+
+
+![Architecture Features Comparison Chart](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_01/mm01_02_architecture_features_comparison_chart.png)
+
+
 ## 💰 Core Concepts: The Foundation
 
 ### Over-Collateralization
@@ -185,6 +193,10 @@ Interest rates are determined by **utilization rate**—the percentage of the po
 - Supply rate: 3% APY (what lenders earn)
 - Borrow rate: 5% APY (what borrowers pay)
 - The 2% spread goes to the protocol or liquidity reserves
+
+
+![Money Market Basic Flow Diagram](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_01/mm01_03_money_market_basic_flow_diagram.png)
+
 
 ## 🎓 Beginner's Corner: Common Questions
 

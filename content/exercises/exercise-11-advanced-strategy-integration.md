@@ -27,6 +27,10 @@
 - Custodial risk: _____
 - Liquidity risk: _____
 
+
+![RWA Integration Analysis](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_11/ex11_01_rwa_integration_analysis.png)
+
+
 ## 🗳️ Phase 2: Governance Participation (20 minutes)
 
 **Exercise 3**: Governance strategy
@@ -46,6 +50,10 @@
 1. _____
 2. _____
 3. _____
+
+
+![Governance Participation Plan](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_11/ex11_02_governance_participation_plan.png)
+
 
 ## 🔮 Phase 3: Emerging Trends (20 minutes)
 

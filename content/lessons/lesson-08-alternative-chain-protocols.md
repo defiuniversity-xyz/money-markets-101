@@ -33,6 +33,10 @@ While Ethereum-based protocols focus on modularity and L2 scaling, high-performa
 
 **The Risk**: Negative Net APY—if borrow rate exceeds staking yield, position costs money. Monitor constantly.
 
+
+![Kamino Multiply Product Flow](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_08/mm08_02_kamino_multiply_product_flow.png)
+
+
 ### Auto-Deleverage (ADL)
 
 **Innovation**: Prevents catastrophic liquidations
@@ -44,6 +48,10 @@ While Ethereum-based protocols focus on modularity and L2 scaling, high-performa
 - Avoids total loss scenario
 
 **Benefit**: Automated risk manager—superior to hard liquidations
+
+
+![Auto-Deleverage vs Hard Liquidation](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_08/mm08_03_auto_deleverage_vs_hard_liquidation.png)
+
 
 ### V2 Modular Design
 
@@ -128,6 +136,10 @@ While Ethereum-based protocols focus on modularity and L2 scaling, high-performa
 | **Risk Level** | Medium | Medium | High (USDD) |
 | **Gas Costs** | Very low | Very low | Energy model |
 
+
+![Protocol Comparison Matrix](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_08/mm08_01_protocol_comparison_matrix.png)
+
+
 ## ⚠️ Cross-Chain Considerations
 
 ### Bridge Risk
@@ -155,6 +167,10 @@ While Ethereum-based protocols focus on modularity and L2 scaling, high-performa
 - Using wrong version = fragmented liquidity + depeg risk
 
 **Always Check**: Protocol documentation for supported asset versions
+
+
+![Bridge Risk and Canonical Assets](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_08/mm08_04_bridge_risk_and_canonical_assets.png)
+
 
 ## 🎯 When to Use Alternative Chains
 

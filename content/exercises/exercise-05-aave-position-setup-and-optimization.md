@@ -19,6 +19,10 @@
 
 **Key takeaway**: _________________________________
 
+
+![Aave V3 vs V4 Comparison Worksheet](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_05/ex05_01_aave_v3_vs_v4_comparison_worksheet.png)
+
+
 ## 💼 Phase 2: Position Setup (20 minutes)
 
 **Exercise 2**: Plan your Aave position
@@ -37,6 +41,10 @@
 - Amount to borrow: $_____ (conservative: 50% of max)
 - Expected Health Factor: _____
 - Target HF: > 2.0? [ ] Yes [ ] No
+
+
+![Aave Position Configuration Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_05/ex05_02_aave_position_configuration_template.png)
+
 
 ## ⚙️ Phase 3: Advanced Features (10 minutes)
 

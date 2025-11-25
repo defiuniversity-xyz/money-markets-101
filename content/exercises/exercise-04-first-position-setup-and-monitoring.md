@@ -22,6 +22,10 @@
 
 **Notes**: _________________________________
 
+
+![Pre-Position Checklist](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_04/ex04_01_pre_position_checklist.png)
+
+
 ## 💰 Phase 2: Position Setup (30 minutes)
 
 ### Actual Setup
@@ -71,6 +75,10 @@
 | Day 1 | $_____ | _____% | _____ |
 | Day 7 | $_____ | _____% | _____ |
 | Day 30 | $_____ | _____% | _____ |
+
+
+![Position Tracking Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_04/ex04_02_position_tracking_template.png)
+
 
 ## ✅ Phase 4: Week 1 Review (15 minutes)
 

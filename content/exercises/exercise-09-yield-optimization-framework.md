@@ -27,6 +27,10 @@
 
 **Which is better?** _____ (Why: _________________________________)
 
+
+![True Yield Calculator Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_09/ex09_01_true_yield_calculator_template.png)
+
+
 ## 🔄 Phase 2: Looping Analysis (20 minutes)
 
 **Exercise 2**: Loop strategy calculation
@@ -46,6 +50,10 @@
 - If borrow rate exceeds: _____%
 - Monitoring needed: [ ] Yes [ ] No
 
+
+![Looping Strategy Analysis](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_09/ex09_02_looping_strategy_analysis.png)
+
+
 ## 🌐 Phase 3: Cross-Protocol Optimization (20 minutes)
 
 **Exercise 4**: Rate comparison
@@ -59,6 +67,10 @@
 - Should you move funds? [ ] Yes [ ] No
 - Minimum spread to justify move: _____%
 - Gas cost consideration: $_____
+
+
+![Optimization Framework Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_09/ex09_03_optimization_framework_template.png)
+
 
 ## 📊 Optimization Framework
 

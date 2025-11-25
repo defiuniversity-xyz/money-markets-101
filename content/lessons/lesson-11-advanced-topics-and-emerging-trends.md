@@ -1,5 +1,9 @@
 # Lesson 11: Advanced Topics and Emerging Trends
 
+
+![Emerging Trends Timeline](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_11/mm11_03_emerging_trends_timeline.png)
+
+
 ## 🎯 Core Concept: The Future of Money Markets
 
 The money market landscape is rapidly evolving with Real-World Assets (RWAs), institutional adoption, governance innovations, and protocol tokenomics. This lesson explores these advanced topics shaping the future of DeFi lending.
@@ -46,6 +50,10 @@ The money market landscape is rapidly evolving with Real-World Assets (RWAs), in
 - Borrow against tokenized assets
 - Traditional repo market on-chain
 - Institutional liquidity flow
+
+
+![RWA Integration Architecture](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_11/mm11_01_rwa_integration_architecture.png)
+
 
 ### Risks and Considerations
 
@@ -153,6 +161,10 @@ The money market landscape is rapidly evolving with Real-World Assets (RWAs), in
 - Time investment required
 - Need to understand technical details
 - Delegation reduces effort but cedes control
+
+
+![Governance Participation Flow](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_11/mm11_02_governance_participation_flow.png)
+
 
 ### Governance Risks
 

@@ -38,6 +38,10 @@ Formula: $$HF = \frac{Collateral Value \times LT}{Total Debt}$$
 - Calculation: _____
 - Liquidation price: $_____
 
+
+![Health Factor Calculation Template](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_02/ex02_01_health_factor_calculation_template.png)
+
+
 ## 💧 Phase 2: Utilization and Interest Rates (15 minutes)
 
 ### Utilization Calculation
@@ -61,6 +65,10 @@ Formula: $$HF = \frac{Collateral Value \times LT}{Total Debt}$$
 - Supply rate: _____ (increases dramatically)
 - Borrow rate: _____ (increases dramatically)
 - Risk: _____ (liquidity freeze possible)
+
+
+![Utilization Rate Worksheet](https://storage.googleapis.com/money-markets-gitbook-images/exercises/exercise_02/ex02_02_utilization_rate_worksheet.png)
+
 
 ## 📊 Phase 3: LTV Analysis (10 minutes)
 

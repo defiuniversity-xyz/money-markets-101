@@ -90,6 +90,10 @@ For your first position, use **Arbitrum** or **Base**:
 2. Withdraw USDC directly to Arbitrum/Base address
 3. Saves bridging step
 
+
+![Network Comparison Chart](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_04/mm04_03_network_comparison_chart.png)
+
+
 ## 💰 Step 3: Choose Your Asset
 
 ### Start with Stablecoins
@@ -223,6 +227,10 @@ When you supply assets, you receive **receipt tokens**:
 - aUSDC balance: ~10,500 (representing $10,500 value)
 - Withdraw: Burn 10,500 aUSDC → Receive 10,500 USDC
 
+
+![First Position Setup Flowchart](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_04/mm04_01_first_position_setup_flowchart.png)
+
+
 ## 📊 Step 6: Understanding Your Dashboard
 
 ### Key Metrics to Monitor
@@ -264,6 +272,10 @@ When you supply assets, you receive **receipt tokens**:
 - ❌ Not recommended for first position
 
 **For Your First Position**: Keep this **OFF**. You're just learning to earn yield. Borrowing comes later.
+
+
+![Monitoring Dashboard Mockup](https://storage.googleapis.com/money-markets-gitbook-images/lessons/lesson_04/mm04_02_monitoring_dashboard_mockup.png)
+
 
 ## 💡 Monitoring Your Position
 
