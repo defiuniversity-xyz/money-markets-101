@@ -1,0 +1,34 @@
+# GitBook
+node_modules/
+_book/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Media assets (hosted on GCS)
+# Note: content/images/ is included as it contains gitbook-specific images
+assets/images/
+assets/audio/
+assets/video/
+
+# Logs
+*.log
+exercise_generation_log.json
+
