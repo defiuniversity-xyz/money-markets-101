@@ -87,3 +87,13 @@ For experienced DeFi participants:
 
 Let's begin your journey to mastering decentralized money markets.
 
+---
+
+## Copyright Notice
+
+Copyright © 2024 DeFi University. All rights reserved.
+
+This work, including all text, images, graphics, interactive elements, and educational content, is the exclusive property of DeFi University and is protected by copyright laws and international copyright treaties.
+
+Unauthorized reproduction, distribution, transmission, or modification of this work, or any portion thereof, without the express written permission of DeFi University is strictly prohibited and may result in severe civil and criminal penalties.
+
