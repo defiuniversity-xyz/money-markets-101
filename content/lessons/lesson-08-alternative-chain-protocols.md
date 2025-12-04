@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-08/audio/lesson8%20Solana_Sui_Tron_Money_Market_Risks.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-08/video/lesson8%20Alt_Blockchain_Explorer_s_Guide.mp4" %}
+
 # Lesson 8: Alternative Chain Protocols
 
 ## 🎯 Core Concept: High-Performance Chain Money Markets

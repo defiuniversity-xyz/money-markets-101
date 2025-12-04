@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-02/audio/lesson2%20Mastering_DeFi_Lending_Math_Liquidation_Risk.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-02/video/lesson2%20Demystifying_DeFi_Lending.mp4" %}
+
 # Lesson 2: The Mathematics of Lending and Borrowing
 
 ## 🎯 Core Concept: Math is Your Protection

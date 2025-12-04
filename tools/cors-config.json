@@ -1,0 +1,7 @@
+[{
+  "origin": ["https://docs.gitbook.com", "https://*.gitbook.io", "http://localhost:3000"],
+  "method": ["GET", "HEAD"],
+  "responseHeader": ["Content-Type", "ETag"],
+  "maxAgeSeconds": 3600
+}]
+

@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-01/audio/lesson1%20DeFi_Money_Markets_Monolithic_Versus_Modular_Risk.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-01/video/lesson1%20DeFi__Banking_Without_a_Bank.mp4" %}
+
 # Lesson 1: Understanding DeFi Money Markets Fundamentals
 
 ## 🎯 Core Concept: What is a DeFi Money Market?

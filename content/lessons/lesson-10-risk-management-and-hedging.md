@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-10/audio/lesson10%20Building_Professional_DeFi_Liquidation_Protection_Systems.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-10/video/lesson10%20DeFi_Risk_Framework.mp4" %}
+
 # Lesson 10: Risk Management and Hedging
 
 ## 🎯 Core Concept: Professional Risk Management

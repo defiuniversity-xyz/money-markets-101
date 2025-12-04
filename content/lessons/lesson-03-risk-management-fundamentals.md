@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-03/audio/lesson3%20Liquidation_Shield_DeFi_Money_Market_Risk.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-03/video/lesson3%20DeFi_Survival_Guide.mp4" %}
+
 # Lesson 3: Risk Management Fundamentals
 
 ## 🎯 Core Concept: Understanding and Mitigating Risk

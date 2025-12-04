@@ -27,6 +27,8 @@ Thumbs.db
 assets/images/
 assets/audio/
 assets/video/
+content/audio/
+content/videos/
 
 # Logs
 *.log

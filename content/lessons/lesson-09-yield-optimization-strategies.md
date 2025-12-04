@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-09/audio/lesson9%20DeFi_Yield_Optimization_Framework_True_Yield_Looping.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-09/video/lesson9%20Savvy_Investor_s_DeFi_Playbook.mp4" %}
+
 # Lesson 9: Yield Optimization Strategies
 
 ## 🎯 Core Concept: Maximizing Returns While Managing Risk

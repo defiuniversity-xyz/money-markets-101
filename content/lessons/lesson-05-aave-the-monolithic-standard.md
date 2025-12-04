@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-05/audio/lesson5%20Aave_V4_Hub_and_Spoke_Architecture_Guide.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-05/video/lesson5%20Aave__DeFi_Lending_Intro.mp4" %}
+
 # Lesson 5: Aave - The Monolithic Standard
 
 ## 🎯 Core Concept: The DeFi Lending Hegemon

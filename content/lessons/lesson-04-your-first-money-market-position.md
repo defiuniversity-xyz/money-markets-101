@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-04/audio/lesson4%20Setting_Up_Your_First_Safe_Money_Market_Position.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-04/video/lesson4%20Your_First_Safe_DeFi_Mission.mp4" %}
+
 # Lesson 4: Your First Money Market Position
 
 ## 🎯 Core Concept: Start Simple, Start Safe

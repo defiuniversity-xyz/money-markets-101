@@ -1,3 +1,7 @@
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-07/audio/lesson7%20Euler_Finance_Rebuild_Ultimate_DeFi_Security.m4a" %}
+
+{% embed url="https://storage.googleapis.com/money-markets-media/lesson-07/video/lesson7%20Euler__%24197M_Rebirth.mp4" %}
+
 # Lesson 7: Euler and Advanced Customization
 
 ## 🎯 Core Concept: The Resilient Toolkit
