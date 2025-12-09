@@ -358,6 +358,12 @@ Aave stands as the undisputed leader in decentralized lending, managing over $70
 - Total cost: ~$0.50 gas
 - Net profit: ~$499.50
 
+## 🔧 Interactive Tool: Protocol Comparison
+
+Compare Aave, Morpho, and Euler features side by side:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/protocol-comparison-tool.html" %}
+
 ## 🎯 Key Takeaways
 
 1. **Aave is the market leader** with $70B+ TVL and 60% market share

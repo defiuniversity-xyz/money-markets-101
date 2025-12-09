@@ -497,6 +497,12 @@ $$Buffer = \frac{\$10,000 - (\$6,000 / 0.85)}{\$10,000} = \frac{\$10,000 - \$7,0
 
 **Lesson**: Always maintain HF > 1.5 to withstand sudden moves.
 
+## 🔧 Interactive Tool: Health Factor Calculator
+
+Practice calculating your position's Health Factor and see how price drops affect your safety:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/health-factor-calculator.html" %}
+
 ## 🎯 Key Takeaways
 
 1. **Liquidation is real and costly**—penalties are 5-10% of collateral

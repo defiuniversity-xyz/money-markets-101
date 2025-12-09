@@ -353,6 +353,12 @@ A: Daily during active positions. Weekly if supply-only conservative strategies.
 - If HF < 1.5: Repay $2.5k debt
 - If protocol issues: Exit immediately
 
+## 🔧 Interactive Tool: Risk Assessment Checklist
+
+Evaluate your position's risk profile before entering:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/risk-assessment-checklist.html" %}
+
 ## 🎯 Key Takeaways
 
 1. **Diversify** across protocols, assets, and strategies

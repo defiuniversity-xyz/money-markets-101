@@ -450,6 +450,20 @@ Interest can compound at different frequencies:
 
 **Trade-off**: Higher yields but increased risk of liquidity freeze if utilization hits 100%.
 
+## 🔧 Interactive Tools
+
+### Health Factor Calculator
+
+Practice calculating Health Factor, LTV, and liquidation prices with this interactive tool:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/health-factor-calculator.html" %}
+
+### Interest Rate Curve Simulator
+
+Visualize how utilization affects supply and borrow rates:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/interest-rate-simulator.html" %}
+
 ## 🎯 Key Takeaways
 
 1. **LTV vs LT**: LTV is maximum borrowing; LT is liquidation trigger—they're different!

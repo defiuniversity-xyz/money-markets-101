@@ -12,6 +12,7 @@
   * [Exercise 3: Risk Assessment and Position Management](exercises/exercise-03-risk-assessment-and-position-management.md)
 * [Lesson 4: Your First Money Market Position](lessons/lesson-04-your-first-money-market-position.md)
   * [Exercise 4: First Position Setup and Monitoring](exercises/exercise-04-first-position-setup-and-monitoring.md)
+* [📝 Module 1 Quiz](quizzes/quiz-module-01.md)
 
 ## Module 2: Protocol Mastery
 
@@ -23,6 +24,7 @@
   * [Exercise 7: Euler Market Creation and Risk Analysis](exercises/exercise-07-euler-market-creation-and-risk-analysis.md)
 * [Lesson 8: Alternative Chain Protocols](lessons/lesson-08-alternative-chain-protocols.md)
   * [Exercise 8: Multi-Protocol Comparison and Selection](exercises/exercise-08-multi-protocol-comparison-and-selection.md)
+* [📝 Module 2 Quiz](quizzes/quiz-module-02.md)
 
 ## Module 3: Advanced Strategies
 
@@ -34,4 +36,5 @@
   * [Exercise 11: Advanced Strategy Integration](exercises/exercise-11-advanced-strategy-integration.md)
 * [Lesson 12: Building Your Professional Money Market System](lessons/lesson-12-building-your-professional-money-market-system.md)
   * [Exercise 12: Complete System Integration](exercises/exercise-12-complete-system-integration.md)
+* [📝 Module 3 Quiz](quizzes/quiz-module-03.md)
 

@@ -309,6 +309,20 @@ Where n = compounding frequency per year.
 
 **Risk**: Higher (leverage + protocol diversification)
 
+## 🔧 Interactive Tools
+
+### Looping Calculator
+
+Calculate leverage, net yield, and break-even rates for looping strategies:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/looping-calculator.html" %}
+
+### Yield Optimizer
+
+Compare true yields across protocols with gas costs factored in:
+
+{% embed url="https://defi-university-app.web.app/interactives/money-markets/yield-optimizer.html" %}
+
 ## 🎯 Key Takeaways
 
 1. **True yield** = Base APY + rewards - gas costs
